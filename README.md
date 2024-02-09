@@ -97,3 +97,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# uwstudysync
+
+An app for accessing and sharing UW course material.
+
+Production: <https://main--uwstudysync.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead of `npm` to install them.
+
+ This project was bootstrapped with
+ [Create React App](https://github.com/facebook/create-react-app).
